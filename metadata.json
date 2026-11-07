@@ -1,0 +1,7 @@
+{
+  "name": "English Speaking AI",
+  "description": "Speak English with Confidence - AI English speaking practice for Hindi-speaking learners",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
